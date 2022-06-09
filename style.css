@@ -1,3 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 30px;
+    margin: 20px;
+}
+body{
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 li.heading{
     list-style-type: none;
 }
