@@ -26,3 +26,19 @@ body{
 li.heading{
     list-style-type: none;
 }
+a{
+    color: green;
+    transition: 1s;
+}
+a:hover{
+    color: rgb(31, 224, 31);
+}
+li{
+    margin: 2px;
+}
+.color1{
+    background-color: aquamarine;
+}
+.color2{
+    background-color:rgb(5, 155, 155);
+}
