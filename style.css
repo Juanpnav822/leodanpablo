@@ -3,10 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+h2{
+    margin-top: 2.5em;
+    margin-bottom: 1.5em;
+    font-size: 2.5rem;
+}
+p{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 1.1rem;
+    text-align: justify;
+}
 header {
     padding: 30px;
     margin: 20px;
+    font-size: 2em;
 }
 body{
     display: flex;
