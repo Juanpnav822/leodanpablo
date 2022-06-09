@@ -18,6 +18,8 @@ header {
     padding: 30px;
     margin: 20px;
     font-size: 2em;
+    position: fixed;
+    background-color: blanchedalmond;
 }
 body{
     display: flex;
@@ -25,6 +27,7 @@ body{
 }
 li.heading{
     list-style-type: none;
+
 }
 a{
     color: green;
@@ -34,11 +37,16 @@ a:hover{
     color: rgb(31, 224, 31);
 }
 li{
-    margin: 2px;
+    margin: 50px;
 }
 .color1{
     background-color: aquamarine;
 }
 .color2{
     background-color:rgb(5, 155, 155);
+}
+#main-doc{
+    margin-left: 300px;
+    margin-right: 50px;
+    background-color: beige;
 }
